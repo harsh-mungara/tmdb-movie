@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424247726507",
+    "project_id": "tmdb-demo-e1513",
+    "storage_bucket": "tmdb-demo-e1513.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424247726507:android:b11bfda49d3f890ac342ee",
+        "android_client_info": {
+          "package_name": "com.tmdbmovie.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJmmK6v2nNH66YT4AoeDPKCX2tbzO3XoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
